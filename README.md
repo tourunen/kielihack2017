@@ -5,7 +5,7 @@ is provided by Digipalvelutehdas for Eduhack/Kielihack May 2017 in Turku.
 
 ## About the platform
 
-[Digipalvelutehdas](https://www.digipalvelutehdas.fi/) provides a container platform for
+[Digipalvelutehdas](http://www.digipalvelutehdas.fi/) provides a container platform for
 the participants of Kielihack. You are able to build, run and publish containerized web 
 applications on it. 
 
