@@ -7,10 +7,16 @@
 
 http://www.digipalvelutehdas.fi
 
-Provides support and tooling for open source, containerized service development using
-national service architecture.
+Provides support and tooling for developing open source services 
+that use national service architecture components. 
 
 Run by Ministry of Education and Culture
+
+Punchlines:
+- containerize or die!
+- quick results or move on!
+- open source ftw!
+
 
 ## Kielihack platform in short
 
