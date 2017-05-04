@@ -63,5 +63,10 @@ For collabaration, partnership and Digipalvelutehdas in whole,
 
 ## Links
 
+Presentations
 - [Kielihack platform overview](https://presentations.oso-pilot.csc.fi/kielihack.html)
 - [Happy Raccoons](https://presentations.oso-pilot.csc.fi/index.html)
+
+Resources
+
+- [OpenShift Online](https://openshift.com) was opened May 2nd, grab a free account there
