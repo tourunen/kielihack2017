@@ -13,9 +13,10 @@ that use national service architecture components.
 Run by Ministry of Education and Culture
 
 Punchlines:
-- containerize or die!
-- quick results or move on!
-- open source ftw!
+
+"Containerize or die!"
+"Quick results or move on!"
+"Open Source FTW!"
 
 
 ## Kielihack platform in short
