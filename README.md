@@ -53,12 +53,12 @@ Try deploying https://github.com/tourunen/gallery
 ## Contact
 
 For technical info and assistance about the Kielihack platform
-- find Olli Tourunen on site
+- find Olli Tourunen on site (red shirt, generation X)
 - mail olli.tourunen@csc.fi
-- chat: TBA
+- chat: https://fleep.io/chat?cid=3zQyQj7ESDSxiYpUj_JrtA
 
 For collabaration, partnership and Digipalvelutehdas in whole,  
-- find Marko Leppänen on site
+- find Marko Leppänen on site (red shirt, generation X)
 - mail marko.leppanen@minedu.fi
 
 ## Links
