@@ -60,3 +60,8 @@ For technical info and assistance about the Kielihack platform
 For collabaration, partnership and Digipalvelutehdas in whole,  
 - find Marko Leppänen on site
 - mail marko.leppanen@minedu.fi
+
+## Links
+
+- [Kielihack platform overview](https://presentations.oso-pilot.csc.fi/kielihack.html)
+- [Happy Raccoons](https://presentations.oso-pilot.csc.fi/index.html)
