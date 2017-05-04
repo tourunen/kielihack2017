@@ -50,4 +50,13 @@ The reference documentation that goes deep.
 
 Try deploying https://github.com/tourunen/gallery
 
+## Contact
 
+For technical info and assistance about the Kielihack platform
+- find Olli Tourunen on site
+- mail olli.tourunen@csc.fi
+- chat: TBA
+
+For collabaration, partnership and Digipalvelutehdas in whole,  
+- find Marko Leppänen on site
+- mail marko.leppanen@minedu.fi
